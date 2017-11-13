@@ -1,0 +1,64 @@
+body{
+  padding-top:35px;
+  padding-bottom:35px;
+  font-family:'Lato', sans-serif;
+}
+
+h1{
+  font-family:'Roboto', sans-serif !important;
+  font-weight:700 !important;
+  font-size: 42px !important;
+}
+
+h4{
+  line-height: 150% !important;
+  text-align: justify;
+}
+
+h3{
+	margin-bottom: 30px !important;
+}
+
+p{
+	font-style: italic;
+}
+
+cite{
+	font-style: normal;
+}
+
+.container{
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.avatar{
+	width: 68px;
+	height: 68px;
+}
+
+.profile-container{
+	display: flex;
+	margin-bottom:20px;
+}
+
+.profile{
+	margin-left: 15px;
+    margin-top: 5px;
+}
+
+.quote-container{
+	padding: 10px 0;
+    margin: 20px 0 5px;
+    font-size: 17.5px;
+	font-weight:bold;
+}
+
+blockquote{
+  border-left: 0px solid #eee !important;
+  padding: 10px 0 !important;
+}
+
+    
